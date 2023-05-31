@@ -248,5 +248,7 @@ public class RegisterUserTest extends BaseClass{
 				
 				//click on logout btn
 				chp.clickLogoutBtn();
+				
+				//test cases done
 	}
 }
