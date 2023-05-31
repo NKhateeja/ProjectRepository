@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="5" parallel="classes">
+
+  <test name="chrome">
+  <parameter name="Browser" value="chrome"></parameter>
+     <classes>
+       <class name="com.banking.user_StaffModule.testscriptsUsingAssertion.CreditCustomerTest"/>
+      
+    </classes>
+  </test> 
+  
+  <test name="firefox">
+  <parameter name="Browser" value="firefox"></parameter>
+  <classes>
+      <class name="com.banking.user_StaffModule.testscriptsUsingAssertion.FundTransferTest"/>
+  </classes>
+  </test>
+</suite> <!-- Suite -->

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-30T15:13:45 IST" name="Default suite" finished-at="2023-05-30T15:13:55 IST" duration-ms="10640">
+    <groups>
+    </groups>
+    <test started-at="2023-05-30T15:13:45 IST" name="Default test" finished-at="2023-05-30T15:13:55 IST" duration-ms="10640">
+      <class name="com.banking.user_StaffModule.testscriptUsingBC.ApplyDebitCardTest">
+        <test-method is-config="true" signature="confid_BS()[pri:0, instance:com.banking.user_StaffModule.testscriptUsingBC.ApplyDebitCardTest@397fbdb]" started-at="2023-05-30T15:13:45 IST" name="confid_BS" finished-at="2023-05-30T15:13:45 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confid_BS -->
+        <test-method is-config="true" signature="config_BC()[pri:0, instance:com.banking.user_StaffModule.testscriptUsingBC.ApplyDebitCardTest@397fbdb]" started-at="2023-05-30T15:13:45 IST" name="config_BC" finished-at="2023-05-30T15:13:46 IST" duration-ms="1538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BC -->
+        <test-method is-config="true" signature="config_BM()[pri:0, instance:com.banking.user_StaffModule.testscriptUsingBC.ApplyDebitCardTest@397fbdb]" started-at="2023-05-30T15:13:46 IST" name="config_BM" finished-at="2023-05-30T15:13:46 IST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BM -->
+        <test-method signature="applyDebitCard()[pri:0, instance:com.banking.user_StaffModule.testscriptUsingBC.ApplyDebitCardTest@397fbdb]" started-at="2023-05-30T15:13:46 IST" name="applyDebitCard" finished-at="2023-05-30T15:13:55 IST" duration-ms="8775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyDebitCard -->
+        <test-method is-config="true" signature="confid_AC()[pri:0, instance:com.banking.user_StaffModule.testscriptUsingBC.ApplyDebitCardTest@397fbdb]" started-at="2023-05-30T15:13:55 IST" name="confid_AC" finished-at="2023-05-30T15:13:55 IST" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confid_AC -->
+        <test-method is-config="true" signature="confid_AM()[pri:0, instance:com.banking.user_StaffModule.testscriptUsingBC.ApplyDebitCardTest@397fbdb]" started-at="2023-05-30T15:13:55 IST" name="confid_AM" finished-at="2023-05-30T15:13:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confid_AM -->
+        <test-method is-config="true" signature="confid_AS()[pri:0, instance:com.banking.user_StaffModule.testscriptUsingBC.ApplyDebitCardTest@397fbdb]" started-at="2023-05-30T15:13:55 IST" name="confid_AS" finished-at="2023-05-30T15:13:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confid_AS -->
+      </class> <!-- com.banking.user_StaffModule.testscriptUsingBC.ApplyDebitCardTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
