@@ -3,13 +3,14 @@ package com.banking.user_StaffModule.testscriptUsingBC;
 import org.testng.annotations.Test;
 
 import com.OnlineBanking.Steller.Utilities.BaseClass;
-import com.onlinebanking.pom.CreditCustomerPage;
-import com.onlinebanking.pom.CustomerHomePage;
-import com.onlinebanking.pom.CustomerLoginPage;
-import com.onlinebanking.pom.StaffHomePage;
-import com.onlinebanking.pom.StaffLoginPage;
-import com.onlinebanking.pom.StatementPage;
-import com.onlinebanking.pom.UserHomePage;
+import com.banking.objectrepository.CreditCustomerPage;
+import com.banking.objectrepository.CustomerHomePage;
+import com.banking.objectrepository.CustomerLoginPage;
+import com.banking.objectrepository.StaffHomePage;
+import com.banking.objectrepository.StaffLoginPage;
+import com.banking.objectrepository.StatementPage;
+import com.banking.objectrepository.UserHomePage;
+
 
 public class CreditCustomerTest extends BaseClass {
 

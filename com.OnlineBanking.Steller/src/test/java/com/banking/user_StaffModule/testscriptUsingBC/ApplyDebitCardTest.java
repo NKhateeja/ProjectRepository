@@ -6,13 +6,14 @@ import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import com.OnlineBanking.Steller.Utilities.BaseClass;
-import com.onlinebanking.pom.ApplyDebitCardPage;
-import com.onlinebanking.pom.ApprovePendindAccountAccountPage;
-import com.onlinebanking.pom.ConformationWindow;
-import com.onlinebanking.pom.OpenAccountPage;
-import com.onlinebanking.pom.StaffHomePage;
-import com.onlinebanking.pom.StaffLoginPage;
-import com.onlinebanking.pom.UserHomePage;
+import com.banking.objectrepository.ApplyDebitCardPage;
+import com.banking.objectrepository.ApprovePendindAccountAccountPage;
+import com.banking.objectrepository.ConformationWindow;
+import com.banking.objectrepository.OpenAccountPage;
+import com.banking.objectrepository.StaffHomePage;
+import com.banking.objectrepository.StaffLoginPage;
+import com.banking.objectrepository.UserHomePage;
+
 @Listeners(com.OnlineBanking.Steller.Utilities.ListenerImplimentation.class)
 public class ApplyDebitCardTest extends BaseClass{
 	

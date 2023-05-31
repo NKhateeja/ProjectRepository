@@ -1,8 +1,6 @@
 package com.onlinebanking.testscriptUtilities;
 
-import java.io.IOException;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
@@ -11,13 +9,13 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import com.OnlineBanking.Steller.Utilities.ExcelUtilities;
 import com.OnlineBanking.Steller.Utilities.FileUtilities;
 import com.OnlineBanking.Steller.Utilities.WebDriverUtility1;
-import com.onlinebanking.pom.AddBeneficiaryPage;
-import com.onlinebanking.pom.CustomerHomePage;
-import com.onlinebanking.pom.CustomerLoginPage;
-import com.onlinebanking.pom.FundTransferOtpPage;
-import com.onlinebanking.pom.FundTransferPage;
-import com.onlinebanking.pom.UserHomePage;
-import com.onlinebanking.pom.ViewBeneficiaryPage;
+import com.banking.objectrepository.AddBeneficiaryPage;
+import com.banking.objectrepository.CustomerHomePage;
+import com.banking.objectrepository.CustomerLoginPage;
+import com.banking.objectrepository.FundTransferOtpPage;
+import com.banking.objectrepository.FundTransferPage;
+import com.banking.objectrepository.UserHomePage;
+import com.banking.objectrepository.ViewBeneficiaryPage;
 
 public class FundTransferTest {
 

@@ -12,8 +12,9 @@ import com.OnlineBanking.Steller.Utilities.ExcelUtilities;
 import com.OnlineBanking.Steller.Utilities.FileUtilities;
 import com.OnlineBanking.Steller.Utilities.JavaUtility;
 import com.OnlineBanking.Steller.Utilities.WebDriverUtility1;
-import com.onlinebanking.pom.OpenAccountPage;
-import com.onlinebanking.pom.UserHomePage;
+import com.banking.objectrepository.OpenAccountPage;
+import com.banking.objectrepository.UserHomePage;
+
 
 public class OpenAccountUsingMap {
 

@@ -1,4 +1,4 @@
-package com.onlinebanking.pom;
+package com.banking.objectrepository;
 
 import java.util.HashMap;
 import java.util.Map.Entry;

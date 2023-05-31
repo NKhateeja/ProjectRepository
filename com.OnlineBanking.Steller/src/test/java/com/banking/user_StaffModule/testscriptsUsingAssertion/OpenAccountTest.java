@@ -7,9 +7,9 @@ import org.testng.Reporter;
 import org.testng.annotations.Test;
 
 import com.OnlineBanking.Steller.Utilities.BaseClass;
-import com.onlinebanking.pom.ConformationWindow;
-import com.onlinebanking.pom.OpenAccountPage;
-import com.onlinebanking.pom.UserHomePage;
+import com.banking.objectrepository.ConformationWindow;
+import com.banking.objectrepository.OpenAccountPage;
+import com.banking.objectrepository.UserHomePage;
 
 public class OpenAccountTest extends BaseClass {
 

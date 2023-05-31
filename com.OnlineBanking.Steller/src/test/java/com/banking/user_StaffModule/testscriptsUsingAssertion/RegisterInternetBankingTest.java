@@ -8,16 +8,17 @@ import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 import com.OnlineBanking.Steller.Utilities.BaseClass;
-import com.onlinebanking.pom.ApplyDebitCardPage;
-import com.onlinebanking.pom.ApprovePendindAccountAccountPage;
-import com.onlinebanking.pom.ConformationWindow;
-import com.onlinebanking.pom.CustomerHomePage;
-import com.onlinebanking.pom.CustomerLoginPage;
-import com.onlinebanking.pom.InternetBankingRegistrationPage;
-import com.onlinebanking.pom.OpenAccountPage;
-import com.onlinebanking.pom.StaffHomePage;
-import com.onlinebanking.pom.StaffLoginPage;
-import com.onlinebanking.pom.UserHomePage;
+import com.banking.objectrepository.ApplyDebitCardPage;
+import com.banking.objectrepository.ApprovePendindAccountAccountPage;
+import com.banking.objectrepository.ConformationWindow;
+import com.banking.objectrepository.CustomerHomePage;
+import com.banking.objectrepository.CustomerLoginPage;
+import com.banking.objectrepository.InternetBankingRegistrationPage;
+import com.banking.objectrepository.OpenAccountPage;
+import com.banking.objectrepository.StaffHomePage;
+import com.banking.objectrepository.StaffLoginPage;
+import com.banking.objectrepository.UserHomePage;
+
 
 public class RegisterInternetBankingTest extends BaseClass{
 

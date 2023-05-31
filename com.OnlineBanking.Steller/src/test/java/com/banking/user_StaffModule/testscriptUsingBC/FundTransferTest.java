@@ -3,13 +3,14 @@ package com.banking.user_StaffModule.testscriptUsingBC;
 import org.testng.annotations.Test;
 
 import com.OnlineBanking.Steller.Utilities.BaseClass;
-import com.onlinebanking.pom.AddBeneficiaryPage;
-import com.onlinebanking.pom.CustomerHomePage;
-import com.onlinebanking.pom.CustomerLoginPage;
-import com.onlinebanking.pom.FundTransferOtpPage;
-import com.onlinebanking.pom.FundTransferPage;
-import com.onlinebanking.pom.UserHomePage;
-import com.onlinebanking.pom.ViewBeneficiaryPage;
+import com.banking.objectrepository.AddBeneficiaryPage;
+import com.banking.objectrepository.CustomerHomePage;
+import com.banking.objectrepository.CustomerLoginPage;
+import com.banking.objectrepository.FundTransferOtpPage;
+import com.banking.objectrepository.FundTransferPage;
+import com.banking.objectrepository.UserHomePage;
+import com.banking.objectrepository.ViewBeneficiaryPage;
+
 
 public class FundTransferTest extends BaseClass{
 	
